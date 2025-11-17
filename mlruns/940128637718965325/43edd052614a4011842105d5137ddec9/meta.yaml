@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/940128637718965325/43edd052614a4011842105d5137ddec9/artifacts
+end_time: 1763377270596
+entry_point_name: ''
+experiment_id: '940128637718965325'
+lifecycle_stage: active
+run_id: 43edd052614a4011842105d5137ddec9
+run_name: whimsical-gull-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763377270485
+status: 3
+tags: []
+user_id: abc

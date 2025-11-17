@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/940128637718965325/1ec6605e254848d5bdc4280f7c5e74b0/artifacts
+end_time: 1763377271055
+entry_point_name: ''
+experiment_id: '940128637718965325'
+lifecycle_stage: active
+run_id: 1ec6605e254848d5bdc4280f7c5e74b0
+run_name: burly-skink-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763377270940
+status: 3
+tags: []
+user_id: abc

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/940128637718965325/a200215914464d2585f07ce20ca58d9e/artifacts
+end_time: 1763377271165
+entry_point_name: ''
+experiment_id: '940128637718965325'
+lifecycle_stage: active
+run_id: a200215914464d2585f07ce20ca58d9e
+run_name: likeable-conch-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763377271070
+status: 3
+tags: []
+user_id: abc

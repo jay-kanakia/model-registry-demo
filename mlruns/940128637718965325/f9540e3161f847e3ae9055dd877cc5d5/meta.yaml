@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/940128637718965325/f9540e3161f847e3ae9055dd877cc5d5/artifacts
+end_time: 1763377271405
+entry_point_name: ''
+experiment_id: '940128637718965325'
+lifecycle_stage: active
+run_id: f9540e3161f847e3ae9055dd877cc5d5
+run_name: mysterious-lynx-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763377271285
+status: 3
+tags: []
+user_id: abc

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/940128637718965325/b205d65a3a5e48a38fa42f24bbd1a13c/artifacts
+end_time: 1763377271665
+entry_point_name: ''
+experiment_id: '940128637718965325'
+lifecycle_stage: active
+run_id: b205d65a3a5e48a38fa42f24bbd1a13c
+run_name: youthful-shad-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763377271560
+status: 3
+tags: []
+user_id: abc

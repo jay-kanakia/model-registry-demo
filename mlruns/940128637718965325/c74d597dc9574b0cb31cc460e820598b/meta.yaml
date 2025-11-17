@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/940128637718965325/c74d597dc9574b0cb31cc460e820598b/artifacts
+end_time: 1763377271551
+entry_point_name: ''
+experiment_id: '940128637718965325'
+lifecycle_stage: active
+run_id: c74d597dc9574b0cb31cc460e820598b
+run_name: valuable-colt-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763377271426
+status: 3
+tags: []
+user_id: abc
