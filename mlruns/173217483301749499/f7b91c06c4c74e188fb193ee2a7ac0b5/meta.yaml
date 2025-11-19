@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/f7b91c06c4c74e188fb193ee2a7ac0b5/artifacts
+end_time: 1763532319944
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: f7b91c06c4c74e188fb193ee2a7ac0b5
+run_name: thoughtful-eel-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532319784
+status: 3
+tags: []
+user_id: abc

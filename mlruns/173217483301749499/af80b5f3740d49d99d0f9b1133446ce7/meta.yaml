@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/af80b5f3740d49d99d0f9b1133446ce7/artifacts
+end_time: 1763532323343
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: af80b5f3740d49d99d0f9b1133446ce7
+run_name: glamorous-lynx-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532323189
+status: 3
+tags: []
+user_id: abc

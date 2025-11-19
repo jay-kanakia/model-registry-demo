@@ -1,0 +1,17 @@
+creation_timestamp: 1763533070014
+current_stage: None
+deployment_job_state: null
+description: 'version1
+
+  '
+last_updated_timestamp: 1763533178746
+model_id: m-3102d3c506e24545919ad5c0907f34eb
+name: random_forest_besthp
+run_id: b93c3b9b10f4498ea551774f8eb21cb6
+run_link: ''
+source: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/models/m-3102d3c506e24545919ad5c0907f34eb/artifacts
+status: READY
+status_message: null
+storage_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/models/m-3102d3c506e24545919ad5c0907f34eb/artifacts
+user_id: null
+version: 1

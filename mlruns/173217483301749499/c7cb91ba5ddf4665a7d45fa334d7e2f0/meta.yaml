@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/c7cb91ba5ddf4665a7d45fa334d7e2f0/artifacts
+end_time: 1763532192956
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: c7cb91ba5ddf4665a7d45fa334d7e2f0
+run_name: adventurous-hare-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532192679
+status: 3
+tags: []
+user_id: abc

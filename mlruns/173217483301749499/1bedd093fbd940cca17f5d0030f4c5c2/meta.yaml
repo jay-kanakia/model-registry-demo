@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/1bedd093fbd940cca17f5d0030f4c5c2/artifacts
+end_time: 1763532488898
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 1bedd093fbd940cca17f5d0030f4c5c2
+run_name: enchanting-vole-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532488738
+status: 3
+tags: []
+user_id: abc

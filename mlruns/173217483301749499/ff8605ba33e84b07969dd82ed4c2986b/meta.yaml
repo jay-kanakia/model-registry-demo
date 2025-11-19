@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/ff8605ba33e84b07969dd82ed4c2986b/artifacts
+end_time: 1763531394942
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: ff8605ba33e84b07969dd82ed4c2986b
+run_name: indecisive-asp-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763531394751
+status: 4
+tags: []
+user_id: abc

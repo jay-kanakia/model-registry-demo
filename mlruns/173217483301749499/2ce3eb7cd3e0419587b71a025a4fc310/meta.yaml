@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/2ce3eb7cd3e0419587b71a025a4fc310/artifacts
+end_time: 1763532189288
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 2ce3eb7cd3e0419587b71a025a4fc310
+run_name: rambunctious-rat-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532189029
+status: 3
+tags: []
+user_id: abc

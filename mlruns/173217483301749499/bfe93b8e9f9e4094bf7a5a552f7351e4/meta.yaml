@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/bfe93b8e9f9e4094bf7a5a552f7351e4/artifacts
+end_time: 1763531969871
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: bfe93b8e9f9e4094bf7a5a552f7351e4
+run_name: serious-ram-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763531969695
+status: 3
+tags: []
+user_id: abc

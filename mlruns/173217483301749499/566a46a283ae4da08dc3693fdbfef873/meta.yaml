@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/566a46a283ae4da08dc3693fdbfef873/artifacts
+end_time: 1763532042980
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 566a46a283ae4da08dc3693fdbfef873
+run_name: judicious-gnu-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532042825
+status: 3
+tags: []
+user_id: abc

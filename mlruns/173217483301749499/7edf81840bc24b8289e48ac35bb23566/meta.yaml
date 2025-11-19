@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/7edf81840bc24b8289e48ac35bb23566/artifacts
+end_time: 1763532044164
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 7edf81840bc24b8289e48ac35bb23566
+run_name: indecisive-ram-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532043970
+status: 3
+tags: []
+user_id: abc

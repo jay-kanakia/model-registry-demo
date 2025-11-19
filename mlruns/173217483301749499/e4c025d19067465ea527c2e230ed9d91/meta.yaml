@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/e4c025d19067465ea527c2e230ed9d91/artifacts
+end_time: 1763531961980
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: e4c025d19067465ea527c2e230ed9d91
+run_name: resilient-mare-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763531961830
+status: 3
+tags: []
+user_id: abc

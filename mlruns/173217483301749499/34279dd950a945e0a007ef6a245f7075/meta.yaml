@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/34279dd950a945e0a007ef6a245f7075/artifacts
+end_time: 1763533690465
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 34279dd950a945e0a007ef6a245f7075
+run_name: charming-shrike-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763533690310
+status: 3
+tags: []
+user_id: abc

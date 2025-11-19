@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/8de54a0e30584d60b5ccdc23276af945/artifacts
+end_time: 1763533688433
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 8de54a0e30584d60b5ccdc23276af945
+run_name: angry-zebra-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763533687925
+status: 3
+tags: []
+user_id: abc

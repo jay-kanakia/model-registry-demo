@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/fb2dcc81af324055bdda5bc7ebcc37a1/artifacts
+end_time: 1763532033905
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: fb2dcc81af324055bdda5bc7ebcc37a1
+run_name: mercurial-finch-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532033740
+status: 3
+tags: []
+user_id: abc

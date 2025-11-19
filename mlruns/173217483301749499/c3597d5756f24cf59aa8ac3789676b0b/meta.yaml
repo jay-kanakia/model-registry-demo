@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/c3597d5756f24cf59aa8ac3789676b0b/artifacts
+end_time: 1763532479808
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: c3597d5756f24cf59aa8ac3789676b0b
+run_name: gentle-turtle-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532479628
+status: 3
+tags: []
+user_id: abc

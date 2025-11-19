@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/471080951883099679/3674c8cd0c2a4b67a346a79196ad95f2/artifacts
+end_time: 1763535943709
+entry_point_name: ''
+experiment_id: '471080951883099679'
+lifecycle_stage: active
+run_id: 3674c8cd0c2a4b67a346a79196ad95f2
+run_name: exultant-pig-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763535943494
+status: 3
+tags: []
+user_id: abc

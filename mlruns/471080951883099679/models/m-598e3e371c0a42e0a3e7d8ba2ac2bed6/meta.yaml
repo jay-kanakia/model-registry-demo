@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/471080951883099679/models/m-598e3e371c0a42e0a3e7d8ba2ac2bed6/artifacts
+creation_timestamp: 1763535944930
+experiment_id: '471080951883099679'
+last_updated_timestamp: 1763535966048
+model_id: m-598e3e371c0a42e0a3e7d8ba2ac2bed6
+model_type: null
+name: random_forest
+source_run_id: 8a2c0d928c9c48de89deb8407bf287c8
+status: 2
+status_message: null

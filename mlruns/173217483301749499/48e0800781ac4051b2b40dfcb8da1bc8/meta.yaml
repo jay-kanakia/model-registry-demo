@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/48e0800781ac4051b2b40dfcb8da1bc8/artifacts
+end_time: 1763531395891
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 48e0800781ac4051b2b40dfcb8da1bc8
+run_name: hyperparameter_tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763531376501
+status: 4
+tags: []
+user_id: abc

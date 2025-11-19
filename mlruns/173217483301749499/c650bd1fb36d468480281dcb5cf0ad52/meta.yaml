@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/c650bd1fb36d468480281dcb5cf0ad52/artifacts
+end_time: 1763532429329
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: c650bd1fb36d468480281dcb5cf0ad52
+run_name: awesome-shark-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532429144
+status: 3
+tags: []
+user_id: abc

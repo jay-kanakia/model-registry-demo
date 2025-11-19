@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/471080951883099679/d063fe99451c4ba88187a5ecd9ffa9bd/artifacts
+end_time: 1763535934359
+entry_point_name: ''
+experiment_id: '471080951883099679'
+lifecycle_stage: active
+run_id: d063fe99451c4ba88187a5ecd9ffa9bd
+run_name: stately-elk-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763535934138
+status: 3
+tags: []
+user_id: abc

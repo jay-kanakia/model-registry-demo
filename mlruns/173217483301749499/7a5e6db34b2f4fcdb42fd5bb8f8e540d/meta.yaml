@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/7a5e6db34b2f4fcdb42fd5bb8f8e540d/artifacts
+end_time: 1763531965381
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 7a5e6db34b2f4fcdb42fd5bb8f8e540d
+run_name: secretive-stork-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763531965210
+status: 3
+tags: []
+user_id: abc

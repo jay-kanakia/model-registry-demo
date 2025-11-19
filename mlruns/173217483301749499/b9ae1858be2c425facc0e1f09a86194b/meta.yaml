@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/b9ae1858be2c425facc0e1f09a86194b/artifacts
+end_time: 1763532416739
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: b9ae1858be2c425facc0e1f09a86194b
+run_name: rebellious-gnu-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532416579
+status: 3
+tags: []
+user_id: abc

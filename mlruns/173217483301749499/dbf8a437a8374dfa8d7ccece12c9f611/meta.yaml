@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/dbf8a437a8374dfa8d7ccece12c9f611/artifacts
+end_time: 1763532422381
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: dbf8a437a8374dfa8d7ccece12c9f611
+run_name: legendary-crane-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532422219
+status: 3
+tags: []
+user_id: abc

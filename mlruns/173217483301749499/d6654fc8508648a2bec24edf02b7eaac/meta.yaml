@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/d6654fc8508648a2bec24edf02b7eaac/artifacts
+end_time: 1763533687009
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: d6654fc8508648a2bec24edf02b7eaac
+run_name: dashing-snipe-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763533686767
+status: 3
+tags: []
+user_id: abc

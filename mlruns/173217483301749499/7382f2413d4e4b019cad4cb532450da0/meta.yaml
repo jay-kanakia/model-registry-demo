@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/7382f2413d4e4b019cad4cb532450da0/artifacts
+end_time: 1763532029374
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 7382f2413d4e4b019cad4cb532450da0
+run_name: spiffy-fawn-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532029210
+status: 3
+tags: []
+user_id: abc

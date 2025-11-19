@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/471080951883099679/43e21720334b4247b030dd68a403bfb4/artifacts
+end_time: 1763535942550
+entry_point_name: ''
+experiment_id: '471080951883099679'
+lifecycle_stage: active
+run_id: 43e21720334b4247b030dd68a403bfb4
+run_name: receptive-hare-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763535942231
+status: 3
+tags: []
+user_id: abc

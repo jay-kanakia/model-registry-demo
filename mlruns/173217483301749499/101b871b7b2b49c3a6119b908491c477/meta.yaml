@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/101b871b7b2b49c3a6119b908491c477/artifacts
+end_time: 1763531951822
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 101b871b7b2b49c3a6119b908491c477
+run_name: nosy-bug-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763531951630
+status: 3
+tags: []
+user_id: abc

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/0437a73b067b402d98a8cd52c15ce524/artifacts
+end_time: 1763532196526
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: active
+run_id: 0437a73b067b402d98a8cd52c15ce524
+run_name: inquisitive-lark-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532196366
+status: 3
+tags: []
+user_id: abc
