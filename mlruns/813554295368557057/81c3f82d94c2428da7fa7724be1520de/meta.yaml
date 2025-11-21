@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/81c3f82d94c2428da7fa7724be1520de/artifacts
+end_time: 1763723971698
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 81c3f82d94c2428da7fa7724be1520de
+run_name: zealous-skink-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723971565
+status: 3
+tags: []
+user_id: abc

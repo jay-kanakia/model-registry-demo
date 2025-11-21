@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/554bd099a1914790ac968aa498f78bdb/artifacts
+end_time: 1763723971088
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 554bd099a1914790ac968aa498f78bdb
+run_name: delightful-perch-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723970993
+status: 3
+tags: []
+user_id: abc

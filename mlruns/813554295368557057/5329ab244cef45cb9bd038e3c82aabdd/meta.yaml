@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/5329ab244cef45cb9bd038e3c82aabdd/artifacts
+end_time: 1763723971193
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 5329ab244cef45cb9bd038e3c82aabdd
+run_name: smiling-seal-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723971097
+status: 3
+tags: []
+user_id: abc

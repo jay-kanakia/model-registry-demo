@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/91df1321e0f94a30960e57b7a0b988f3/artifacts
+end_time: 1763723970983
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 91df1321e0f94a30960e57b7a0b988f3
+run_name: sassy-crab-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723970864
+status: 3
+tags: []
+user_id: abc

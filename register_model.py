@@ -6,7 +6,7 @@ import mlflow
 client = MlflowClient()
 
 # Run ID where the model was logged
-run_id = "2805e123949047efa899f46941396544"
+run_id = "f121c78663d941e8bdc45aaee38cbb37"
 
 # Path to the artifact within the run
 #artifact_path = "models/m-c46f919d08064e2688e019e2c175468d/artifacts"  

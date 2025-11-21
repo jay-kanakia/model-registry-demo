@@ -1,0 +1,33 @@
+artifact_path: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/models/m-afac04df4a2c458e8766ae34a1691d3b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-afac04df4a2c458e8766ae34a1691d3b
+model_size_bytes: 214994
+model_uuid: m-afac04df4a2c458e8766ae34a1691d3b
+prompts: null
+run_id: f121c78663d941e8bdc45aaee38cbb37
+signature:
+  inputs: '[{"type": "long", "name": "Pregnancies", "required": true}, {"type": "long",
+    "name": "Glucose", "required": true}, {"type": "long", "name": "BloodPressure",
+    "required": true}, {"type": "long", "name": "SkinThickness", "required": true},
+    {"type": "long", "name": "Insulin", "required": true}, {"type": "double", "name":
+    "BMI", "required": true}, {"type": "double", "name": "DiabetesPedigreeFunction",
+    "required": true}, {"type": "long", "name": "Age", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-21 11:19:32.233553'
