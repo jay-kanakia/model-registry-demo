@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/04464352accf485ca4cce823001f575d/artifacts
+end_time: 1763715968731
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: 04464352accf485ca4cce823001f575d
+run_name: hilarious-bug-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715968561
+status: 3
+tags: []
+user_id: abc

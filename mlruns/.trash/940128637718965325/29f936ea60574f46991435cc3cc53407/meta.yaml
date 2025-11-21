@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/940128637718965325/29f936ea60574f46991435cc3cc53407/artifacts
+deleted_time: 1763715764139
+end_time: 1763377272170
+entry_point_name: ''
+experiment_id: '940128637718965325'
+lifecycle_stage: deleted
+run_id: 29f936ea60574f46991435cc3cc53407
+run_name: receptive-owl-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763377272015
+status: 3
+tags: []
+user_id: abc

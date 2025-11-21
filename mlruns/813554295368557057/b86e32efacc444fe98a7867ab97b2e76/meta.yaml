@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/b86e32efacc444fe98a7867ab97b2e76/artifacts
+end_time: 1763723120370
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: b86e32efacc444fe98a7867ab97b2e76
+run_name: blushing-vole-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723120270
+status: 3
+tags: []
+user_id: abc

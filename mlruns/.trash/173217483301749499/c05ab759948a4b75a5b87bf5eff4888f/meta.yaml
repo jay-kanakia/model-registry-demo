@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/c05ab759948a4b75a5b87bf5eff4888f/artifacts
+deleted_time: 1763715764091
+end_time: 1763532412207
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: deleted
+run_id: c05ab759948a4b75a5b87bf5eff4888f
+run_name: victorious-roo-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532412024
+status: 3
+tags: []
+user_id: abc

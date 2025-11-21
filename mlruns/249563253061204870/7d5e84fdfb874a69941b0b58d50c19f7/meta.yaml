@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/7d5e84fdfb874a69941b0b58d50c19f7/artifacts
+end_time: 1763715969026
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: 7d5e84fdfb874a69941b0b58d50c19f7
+run_name: youthful-moth-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715968896
+status: 3
+tags: []
+user_id: abc

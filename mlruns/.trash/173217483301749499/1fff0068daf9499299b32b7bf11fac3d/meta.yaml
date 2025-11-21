@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/1fff0068daf9499299b32b7bf11fac3d/artifacts
+deleted_time: 1763715764091
+end_time: 1763532201042
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: deleted
+run_id: 1fff0068daf9499299b32b7bf11fac3d
+run_name: trusting-hare-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532200879
+status: 3
+tags: []
+user_id: abc

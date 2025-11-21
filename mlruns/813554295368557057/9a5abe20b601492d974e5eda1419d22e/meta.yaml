@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/9a5abe20b601492d974e5eda1419d22e/artifacts
+end_time: 1763723120480
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 9a5abe20b601492d974e5eda1419d22e
+run_name: rogue-squid-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723120385
+status: 3
+tags: []
+user_id: abc

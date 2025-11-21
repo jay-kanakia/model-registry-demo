@@ -1,0 +1,16 @@
+creation_timestamp: 1763723647393
+current_stage: None
+deployment_job_state: null
+description: This is a RandomForest model trained to predict diabetes outcomes based
+  on Pima Indians Diabetes Dataset.
+last_updated_timestamp: 1763723652544
+model_id: m-c46f919d08064e2688e019e2c175468d
+name: temp_model
+run_id: 2805e123949047efa899f46941396544
+run_link: null
+source: models:/m-c46f919d08064e2688e019e2c175468d
+status: READY
+status_message: null
+storage_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/models/m-c46f919d08064e2688e019e2c175468d/artifacts
+user_id: null
+version: 1

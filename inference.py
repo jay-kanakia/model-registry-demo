@@ -5,7 +5,7 @@ import numpy as np
 
 data = np.array([1,85,66,29,0,26.6,0.351,31]).reshape(1,-1)
 
-model_name = "ddiabetes-rf_new"
+model_name = "diabetes_new_exp"
 model_version = 1
 
 model = mlflow.pyfunc.load_model(model_uri=f"models:/{model_name}/{model_version}")

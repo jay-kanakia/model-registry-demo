@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/471080951883099679/db21542d0a4b4caea44d34ad3f553fda/artifacts
+deleted_time: 1763715764156
+end_time: 1763535938913
+entry_point_name: ''
+experiment_id: '471080951883099679'
+lifecycle_stage: deleted
+run_id: db21542d0a4b4caea44d34ad3f553fda
+run_name: nosy-perch-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763535938749
+status: 3
+tags: []
+user_id: abc

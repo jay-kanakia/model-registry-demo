@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/674b75e4c8434ea1887851bac32e127c/artifacts
+end_time: 1763723120818
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 674b75e4c8434ea1887851bac32e127c
+run_name: skillful-vole-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723120710
+status: 3
+tags: []
+user_id: abc

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/507b629741be4c659751dd8abf50acde/artifacts
+deleted_time: 1763715764091
+end_time: 1763532026011
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: deleted
+run_id: 507b629741be4c659751dd8abf50acde
+run_name: beautiful-donkey-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532025850
+status: 3
+tags: []
+user_id: abc

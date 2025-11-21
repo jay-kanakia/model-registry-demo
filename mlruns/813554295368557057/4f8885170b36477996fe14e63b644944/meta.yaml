@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/4f8885170b36477996fe14e63b644944/artifacts
+end_time: 1763723120701
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 4f8885170b36477996fe14e63b644944
+run_name: thoughtful-gnat-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723120596
+status: 3
+tags: []
+user_id: abc

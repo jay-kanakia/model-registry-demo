@@ -4,7 +4,7 @@ from mlflow.tracking import MlflowClient
 client = MlflowClient()
 
 # Define the model name and version
-model_name = "ddiabetes-rf_new"
+model_name = "diabetes_new_exp"
 model_version = 1  # Replace with the specific version number you want to transition
 
 # Transition the model version to a new stage

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/1da163d3dd5f426287bf6a0e1d50b5a8/artifacts
+end_time: 1763715968886
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: 1da163d3dd5f426287bf6a0e1d50b5a8
+run_name: delightful-snake-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715968746
+status: 3
+tags: []
+user_id: abc

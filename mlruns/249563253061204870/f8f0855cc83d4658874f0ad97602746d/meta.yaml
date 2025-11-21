@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/f8f0855cc83d4658874f0ad97602746d/artifacts
+end_time: 1763715968119
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: f8f0855cc83d4658874f0ad97602746d
+run_name: rogue-sponge-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715967967
+status: 3
+tags: []
+user_id: abc

@@ -1,6 +1,0 @@
-artifact_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/471080951883099679
-creation_time: 1763535915012
-experiment_id: '471080951883099679'
-last_update_time: 1763535915012
-lifecycle_stage: active
-name: diabetes-rf_new

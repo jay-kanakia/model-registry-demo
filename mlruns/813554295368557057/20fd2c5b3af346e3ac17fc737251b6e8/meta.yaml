@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/20fd2c5b3af346e3ac17fc737251b6e8/artifacts
+end_time: 1763723120256
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: 20fd2c5b3af346e3ac17fc737251b6e8
+run_name: luxuriant-mole-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723120156
+status: 3
+tags: []
+user_id: abc

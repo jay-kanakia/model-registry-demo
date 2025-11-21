@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/877e9bd8d68646bf926a6953f8d84ae0/artifacts
+deleted_time: 1763715764091
+end_time: 1763532191709
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: deleted
+run_id: 877e9bd8d68646bf926a6953f8d84ae0
+run_name: flawless-steed-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532191479
+status: 3
+tags: []
+user_id: abc

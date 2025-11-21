@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/d471d4971a7e4abe826301a51fb7cdb3/artifacts
+end_time: 1763715967636
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: d471d4971a7e4abe826301a51fb7cdb3
+run_name: merciful-auk-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715967446
+status: 3
+tags: []
+user_id: abc

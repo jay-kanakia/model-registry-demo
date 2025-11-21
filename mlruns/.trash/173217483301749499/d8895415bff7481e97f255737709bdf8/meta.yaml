@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/d8895415bff7481e97f255737709bdf8/artifacts
+deleted_time: 1763715764091
+end_time: 1763532316566
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: deleted
+run_id: d8895415bff7481e97f255737709bdf8
+run_name: awesome-hound-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532316399
+status: 3
+tags: []
+user_id: abc

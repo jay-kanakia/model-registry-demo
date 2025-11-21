@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499
+creation_time: 1763531032368
+experiment_id: '173217483301749499'
+last_update_time: 1763715764091
+lifecycle_stage: deleted
+name: diabetes-rf
+tags:
+  mlflow.experimentKind: custom_model_development

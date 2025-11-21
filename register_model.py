@@ -5,17 +5,17 @@ import mlflow
 # Initialize the MLflow Client
 client = MlflowClient()
 
-# Replace with the run_id of the run where the model was logged
-run_id = "8a2c0d928c9c48de89deb8407bf287c8"
+# Run ID where the model was logged
+run_id = "2805e123949047efa899f46941396544"
 
-# Replace with the path to the logged model within the run
-#model_path = "file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/471080951883099679/models/m-598e3e371c0a42e0a3e7d8ba2ac2bed6/artifacts/model.pkl"
+# Path to the artifact within the run
+#artifact_path = "models/m-c46f919d08064e2688e019e2c175468d/artifacts"  
 
-# Construct the model URI
+# Correct MLflow URI
 model_uri = f"runs:/{run_id}/random_forest"
 
-# Register the model in the model registry
-model_name = "ddiabetes-rf_new"
+# Register the model
+model_name = "temp_model"
 result = mlflow.register_model(model_uri, model_name)
 
 import time
@@ -35,12 +35,6 @@ client.set_model_version_tag(
     value="diabetes prediction"
 )
 
-client.set_model_version_tag(
-    name=model_name,
-    version=result.version,
-    key="day",
-    value="sat"
-)
 print(f"Model registered with name: {model_name} and version: {result.version}")
 print(f"Added tags to model {model_name} version {result.version}")
 

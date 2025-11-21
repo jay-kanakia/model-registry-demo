@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/173217483301749499/a3e29c3eb8794daa9588751c09cd192e/artifacts
+deleted_time: 1763715764091
+end_time: 1763532421248
+entry_point_name: ''
+experiment_id: '173217483301749499'
+lifecycle_stage: deleted
+run_id: a3e29c3eb8794daa9588751c09cd192e
+run_name: able-newt-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763532421098
+status: 3
+tags: []
+user_id: abc

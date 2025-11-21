@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/aaa9fbb04bc6464b8e0b9d95a4495d8d/artifacts
+end_time: 1763715970755
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: aaa9fbb04bc6464b8e0b9d95a4495d8d
+run_name: agreeable-gnat-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715970645
+status: 3
+tags: []
+user_id: abc

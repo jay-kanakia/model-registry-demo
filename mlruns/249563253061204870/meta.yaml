@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870
+creation_time: 1763715937956
+experiment_id: '249563253061204870'
+last_update_time: 1763715937956
+lifecycle_stage: active
+name: diabetes_new_exp

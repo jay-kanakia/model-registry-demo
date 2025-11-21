@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/c21af05e510248cd884d4f9e486c2847/artifacts
+end_time: 1763715967950
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: c21af05e510248cd884d4f9e486c2847
+run_name: shivering-mink-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715967796
+status: 3
+tags: []
+user_id: abc

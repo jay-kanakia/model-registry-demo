@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/813554295368557057/e9caba3bba7941e4bf90151e1eb98403/artifacts
+end_time: 1763723120590
+entry_point_name: ''
+experiment_id: '813554295368557057'
+lifecycle_stage: active
+run_id: e9caba3bba7941e4bf90151e1eb98403
+run_name: delightful-robin-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723120491
+status: 3
+tags: []
+user_id: abc

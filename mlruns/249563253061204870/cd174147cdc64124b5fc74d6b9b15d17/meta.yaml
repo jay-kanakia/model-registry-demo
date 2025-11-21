@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/cd174147cdc64124b5fc74d6b9b15d17/artifacts
+end_time: 1763715969936
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: cd174147cdc64124b5fc74d6b9b15d17
+run_name: gaudy-flea-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715969707
+status: 3
+tags: []
+user_id: abc

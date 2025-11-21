@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/model-registry-demo/mlruns/249563253061204870/65c82e7b0524436b94f65857efbac124/artifacts
+end_time: 1763715967786
+entry_point_name: ''
+experiment_id: '249563253061204870'
+lifecycle_stage: active
+run_id: 65c82e7b0524436b94f65857efbac124
+run_name: welcoming-cod-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763715967652
+status: 3
+tags: []
+user_id: abc
